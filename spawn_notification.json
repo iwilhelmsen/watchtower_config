@@ -11,8 +11,8 @@
   "broadcastVolatileDespawns": false,
   "broadcastSpeciesName": true,
   "broadcastPlayerSpawnedOn": false,
-  "disableWaypoints": false,
-  "broadcastRange": -1,
+  "disableWaypoints": true,
+  "broadcastRange": 500,
   "playerLimit": -1,
   "labelsForBroadcast": [
     "legendary",

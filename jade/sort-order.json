@@ -35,6 +35,8 @@
   "extendedae:jade_chamber": null,
   "extendedae:jade_wireless": null,
   "extendedae:tile_data": null,
+  "ftbquests:barrier": null,
+  "gravestone:grave": null,
   "jade:block_face": null,
   "jade:block_properties": null,
   "jade:block_states": null,
@@ -111,5 +113,11 @@
   "occultism:foliot": null,
   "occultism:sacrificial": null,
   "oritech:machine_core_controller": null,
+  "productivemetalworks:casting": null,
+  "supplementaries:hat_stand": null,
+  "supplementaries:present": null,
+  "supplementaries:safe": null,
+  "twilightforest:chiseled_bookshelf_spawner": null,
+  "twilightforest:quest_ram_wool": null,
   "waystones:waystone": null
 }

@@ -127,6 +127,15 @@
 			"Scorchin level=10",
 			"Droppel level=10"
 		]
-	  }
+	  },
+	  {
+		"name": "Jetian",
+		"displayName": "Jetia",
+		"pokemon": [
+			"Chikorita Jetian level=10",
+			"Tepig Jetian level=10",
+			"Squirtle Jetian level=10"
+		]
+	}
     ]
   }

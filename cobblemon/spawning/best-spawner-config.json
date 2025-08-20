@@ -9,19 +9,19 @@
   "buckets": [
     {
       "name": "common",
-      "weight": 94.3
+      "weight": 80
     },
     {
       "name": "uncommon",
-      "weight": 5
+      "weight": 13
     },
     {
       "name": "rare",
-      "weight": 0.5
+      "weight": 4.5
     },
     {
       "name": "ultra-rare",
-      "weight": 0.2
+      "weight": 2.5
     }
   ]
 }

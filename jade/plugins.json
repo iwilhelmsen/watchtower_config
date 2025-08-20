@@ -65,15 +65,8 @@
   "apothic_spawners": {
     "spawner": true
   },
-  "jade_access": {
-    "held_item": true,
-    "sign": true,
-    "block": true,
-    "entity": true,
-    "entity_variant": true
-  },
-  "oritech": {
-    "machine_core_controller": true
+  "ftbquests": {
+    "barrier": true
   },
   "cobblemonintegrations": {
     "healer": true,
@@ -96,22 +89,9 @@
     "hamster_debug_info": true,
     "wild_bush_tooltips": true
   },
-  "apotheosis": {
-    "adventure": true
-  },
   "extendedae": {
     "jade_chamber": true,
     "jade_wireless": true
-  },
-  "occultism": {
-    "foliot": true,
-    "sacrificial": true
-  },
-  "apothic_enchanting": {
-    "ench": true
-  },
-  "balm": {
-    "jade": true
   },
   "ae2": {
     "part_icon": true,
@@ -124,6 +104,43 @@
     "power_storage": true,
     "crafting_monitor": true,
     "part_name": true
+  },
+  "easy_villagers": {
+    "villager": true,
+    "converter": true,
+    "breeder": true
+  },
+  "productivemetalworks": {
+    "casting": true
+  },
+  "waystones": {
+    "waystone": true
+  },
+  "gravestone": {
+    "grave": true
+  },
+  "jade_access": {
+    "held_item": true,
+    "sign": true,
+    "block": true,
+    "entity": true,
+    "entity_variant": true
+  },
+  "oritech": {
+    "machine_core_controller": true
+  },
+  "apotheosis": {
+    "adventure": true
+  },
+  "occultism": {
+    "foliot": true,
+    "sacrificial": true
+  },
+  "apothic_enchanting": {
+    "ench": true
+  },
+  "balm": {
+    "jade": true
   },
   "ars_nouveau": {
     "mob_jar": true
@@ -138,12 +155,11 @@
   "jadeaddons.lootr": {
     "info": true
   },
-  "easy_villagers": {
-    "villager": true,
-    "converter": true,
-    "breeder": true
+  "twilightforest": {
+    "chiseled_bookshelf_spawner": true,
+    "quest_ram_wool": true
   },
-  "waystones": {
-    "waystone": true
+  "supplementaries": {
+    "hat_stand": true
   }
 }

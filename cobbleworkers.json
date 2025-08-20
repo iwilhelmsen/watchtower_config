@@ -1,4 +1,9 @@
 {
+  "general": {
+    "blocksScannedPerTick": 15,
+    "searchRadius": 8,
+    "searchHeight": 5
+  },
   "apricorn": {
     "apricornHarvestersEnabled": true,
     "apricornHarvesters": [
@@ -6,27 +11,21 @@
       "scizor",
       ""
     ],
-    "typeHarvestsApricorns": "BUG",
-    "searchRadius": 8,
-    "searchHeight": 5
+    "typeHarvestsApricorns": "BUG"
   },
   "irrigation": {
     "cropIrrigatorsEnabled": true,
     "cropIrrigators": [
       "pikachu"
     ],
-    "typeIrrigatesCrops": "WATER",
-    "searchRadius": 8,
-    "searchHeight": 2
+    "typeIrrigatesCrops": "WATER"
   },
   "amethyst": {
     "amethystHarvestersEnabled": true,
     "amethystHarvesters": [
       "pikachu"
     ],
-    "typeHarvestsAmethyst": "ROCK",
-    "searchRadius": 8,
-    "searchHeight": 5
+    "typeHarvestsAmethyst": "ROCK"
   },
   "tumblestone": {
     "tumblestoneHarvestersEnabled": true,
@@ -34,9 +33,7 @@
       "excadrill"
     ],
     "shouldReplantTumblestone": true,
-    "typeHarvestsTumblestone": "STEEL",
-    "searchRadius": 8,
-    "searchHeight": 5
+    "typeHarvestsTumblestone": "STEEL"
   },
   "cropHarvest": {
     "cropHarvestersEnabled": true,
@@ -44,18 +41,14 @@
       "pikachu"
     ],
     "shouldReplantCrops": true,
-    "typeHarvestsCrops": "GRASS",
-    "searchRadius": 8,
-    "searchHeight": 3
+    "typeHarvestsCrops": "GRASS"
   },
   "berries": {
     "berryHarvestersEnabled": true,
     "berryHarvesters": [
       "pikachu"
     ],
-    "typeHarvestsBerries": "GRASS",
-    "searchRadius": 8,
-    "searchHeight": 5
+    "typeHarvestsBerries": "GRASS"
   },
   "honey": {
     "honeyCollectorsEnabled": true,
@@ -65,18 +58,14 @@
     ],
     "typeHarvestsHoney": "NONE",
     "combeeLineGeneratesHoney": true,
-    "honeyGenerationCooldownSeconds": 120,
-    "searchRadius": 8,
-    "searchHeight": 5
+    "honeyGenerationCooldownSeconds": 120
   },
   "mints": {
     "mintHarvestersEnabled": true,
     "mintHarvesters": [
       "pikachu"
     ],
-    "typeHarvestsMints": "FAIRY",
-    "searchRadius": 8,
-    "searchHeight": 5
+    "typeHarvestsMints": "FAIRY"
   },
   "lava": {
     "lavaGeneratorsEnabled": true,
@@ -84,9 +73,7 @@
       "pikachu"
     ],
     "lavaGenerationCooldownSeconds": 90,
-    "typeGeneratesLava": "FIRE",
-    "searchRadius": 8,
-    "searchHeight": 5
+    "typeGeneratesLava": "FIRE"
   },
   "water": {
     "waterGeneratorsEnabled": true,
@@ -94,9 +81,7 @@
       "pikachu"
     ],
     "waterGenerationCooldownSeconds": 90,
-    "typeGeneratesWater": "WATER",
-    "searchRadius": 8,
-    "searchHeight": 5
+    "typeGeneratesWater": "WATER"
   },
   "snow": {
     "snowGeneratorsEnabled": true,
@@ -104,9 +89,7 @@
       "pikachu"
     ],
     "snowGenerationCooldownSeconds": 90,
-    "typeGeneratesSnow": "ICE",
-    "searchRadius": 8,
-    "searchHeight": 5
+    "typeGeneratesSnow": "ICE"
   },
   "fishing": {
     "fishingLootGeneratorsEnabled": true,
@@ -115,9 +98,7 @@
     ],
     "fishingLootGenerationCooldownSeconds": 60,
     "fishingLootTreasureChance": 1,
-    "typeGeneratesFishingLoot": "WATER",
-    "searchRadius": 8,
-    "searchHeight": 5
+    "typeGeneratesFishingLoot": "WATER"
   },
   "pickup": {
     "pickUpLootersEnabled": true,
@@ -131,27 +112,21 @@
       "cobblemon:sets/any_type_gem",
       "cobblemon:sets/any_apricorn_seed",
       "cobblemon:villages/village_pokecenters"
-    ],
-    "searchRadius": 8,
-    "searchHeight": 5
+    ]
   },
   "diving": {
     "divingLootersEnabled": true,
     "divingLootingCooldownSeconds": 210,
     "lootTables": [
       "cobblemon:shipwreck_coves/gilded_chests/lesser_treasure"
-    ],
-    "searchRadius": 8,
-    "searchHeight": 5
+    ]
   },
   "groundItemGathering": {
     "groundItemGatheringEnabled": true,
     "groundItemGatherers": [
       "pikachu"
     ],
-    "typeGathersGroundItems": "PSYCHIC",
-    "searchRadius": 8,
-    "searchHeight": 5
+    "typeGathersGroundItems": "PSYCHIC"
   },
   "netherwartHarvest": {
     "netherwartHarvestersEnabled": true,
@@ -159,9 +134,7 @@
       "pikachu"
     ],
     "shouldReplantNetherwart": true,
-    "typeHarvestsNetherwart": "GHOST",
-    "searchRadius": 8,
-    "searchHeight": 3
+    "typeHarvestsNetherwart": "GHOST"
   },
   "healing": {
     "healersEnabled": false,
@@ -182,9 +155,7 @@
     ],
     "chanseyLineHealsPlayers": true,
     "regenDurationSeconds": 20,
-    "regenAmplifier": 0,
-    "searchRadius": 8,
-    "searchHeight": 3
+    "regenAmplifier": 0
   },
   "fuel": {
     "fuelGeneratorsEnabled": true,
@@ -202,9 +173,7 @@
     ],
     "fuelGenerationCooldownSeconds": 80,
     "burnTimeSeconds": 80,
-    "typeGeneratesFuel": "FIRE",
-    "searchRadius": 8,
-    "searchHeight": 3
+    "typeGeneratesFuel": "FIRE"
   },
   "brewingStandFuel": {
     "fuelGeneratorsEnabled": true,
@@ -213,9 +182,7 @@
     ],
     "fuelGenerationCooldownSeconds": 80,
     "addedFuel": 5,
-    "typeGeneratesFuel": "DRAGON",
-    "searchRadius": 8,
-    "searchHeight": 3
+    "typeGeneratesFuel": "DRAGON"
   },
   "extinguisher": {
     "extinguishersEnabled": true,
@@ -224,8 +191,6 @@
       "wartortle",
       "blastoise"
     ],
-    "typeExtinguishesFire": "WATER",
-    "searchRadius": 8,
-    "searchHeight": 3
+    "typeExtinguishesFire": "WATER"
   }
 }

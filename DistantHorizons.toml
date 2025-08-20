@@ -629,7 +629,7 @@ _version = 3
 				blocksToIgnore = "NON_COLLIDING"
 				#
 				# The radius of the mod's render distance. (measured in chunks)
-				lodChunkRenderDistanceRadius = 256
+				lodChunkRenderDistanceRadius = 128
 				#
 				# What the value should vanilla Minecraft's texture LodBias be? 
 				# If set to 0 the mod wont overwrite vanilla's default (which so happens to also be 0)
@@ -791,5 +791,5 @@ _version = 3
 			# IP_ONLY: Example: "192.168.1.40" 
 			# NAME_IP: Example: "Minecraft Server IP 192.168.1.40" 
 			# NAME_IP_PORT: Example: "Minecraft Server IP 192.168.1.40:25565"NAME_IP_PORT_MC_VERSION: Example: "Minecraft Server IP 192.168.1.40:25565 GameVersion 1.16.5"
-			serverFolderNameMode = "NAME_ONLY"
+			serverFolderNameMode = "NAME_IP_PORT"
 

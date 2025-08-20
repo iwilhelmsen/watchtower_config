@@ -1,9 +1,10 @@
 {
-  "eggCheckTicks": 12000,
+  "eggCheckTicks": 6000,
   "eggCheckChance": 0.5,
-  "eggHatchMultiplier": 1.0,
+  "eggHatchMultiplier": 0.2,
   "shinyMethod": [
-    "masuda"
+    "masuda",
+    "crystal"
   ],
   "shinyMultiplier": 4.0,
   "hiddenAbilitiesEnabled": true,
@@ -13,7 +14,7 @@
   "dittoAndDittoAllowParadox": false,
   "dittoAndDittoAllowUltraBeast": false,
   "dittoAndDittoAllowUndiscovered": false,
-  "customColors": false,
+  "customColors": true,
   "allowHoppersToPullFromPastureBlock": true,
   "blacklistedAspects": [
     "shiny",
