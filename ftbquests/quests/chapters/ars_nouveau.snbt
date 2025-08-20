@@ -1,0 +1,13 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "ars_nouveau"
+	group: "6E9B3760209F98B5"
+	icon: {
+		id: "ars_nouveau:novice_spell_book"
+	}
+	id: "4B3F16F248DC703C"
+	order_index: 1
+	quest_links: [ ]
+	quests: [ ]
+}

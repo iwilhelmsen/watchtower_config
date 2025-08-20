@@ -1,0 +1,63 @@
+{
+	id: "5BC5251C165A90D3"
+	loot_size: 1
+	order_index: 4
+	rewards: [
+		{
+			count: 16
+			id: "0D17868E3910BAA0"
+			item: {
+				count: 1
+				id: "cobblemon:red_apricorn"
+			}
+		}
+		{
+			count: 16
+			id: "3F085572C0A53BA2"
+			item: {
+				count: 1
+				id: "cobblemon:yellow_apricorn"
+			}
+		}
+		{
+			count: 16
+			id: "73969FA90D56F7D7"
+			item: {
+				count: 1
+				id: "cobblemon:green_apricorn"
+			}
+		}
+		{
+			count: 16
+			id: "3E671C38C1A573E2"
+			item: {
+				count: 1
+				id: "cobblemon:blue_apricorn"
+			}
+		}
+		{
+			count: 16
+			id: "0D7E2BDA17F57DD0"
+			item: {
+				count: 1
+				id: "cobblemon:pink_apricorn"
+			}
+		}
+		{
+			count: 16
+			id: "00DC2A0F40515447"
+			item: {
+				count: 1
+				id: "cobblemon:black_apricorn"
+			}
+		}
+		{
+			count: 16
+			id: "033E4AD74F1FB0CD"
+			item: {
+				count: 1
+				id: "cobblemon:white_apricorn"
+			}
+		}
+	]
+}

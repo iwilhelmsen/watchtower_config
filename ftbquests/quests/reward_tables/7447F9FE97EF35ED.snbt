@@ -1,0 +1,68 @@
+{
+	icon: {
+		id: "cobblemon:master_ball"
+	}
+	id: "7447F9FE97EF35ED"
+	loot_size: 1
+	order_index: 6
+	rewards: [
+		{
+			id: "60BE6930B06F6B29"
+			item: {
+				count: 1
+				id: "cobblemon:master_ball"
+			}
+			weight: 0.25f
+		}
+		{
+			id: "7EA4BA4CF878B94A"
+			item: {
+				count: 1
+				id: "cobblemon:ancient_origin_ball"
+			}
+			weight: 0.25f
+		}
+		{
+			count: 4
+			id: "7ECF03D323AB51F9"
+			item: {
+				count: 1
+				id: "cobblemon:beast_ball"
+			}
+			weight: 0.5f
+		}
+		{
+			id: "78CF7481D829CD75"
+			item: {
+				count: 1
+				id: "cobblemon:full_restore"
+			}
+			weight: 0.75f
+		}
+		{ id: "62CAEC465A122A28", item: { count: 1, id: "cobblemon:focus_sash" } }
+		{ id: "74623049AB232A66", item: { count: 1, id: "cobblemon:rocky_helmet" } }
+		{ id: "55FAD903A903A4FC", item: { count: 1, id: "cobblemon:eviolite" } }
+		{ id: "04A31F0CCE93815B", item: { count: 1, id: "cobblemon:heavy_duty_boots" } }
+		{ id: "662EEE902FB40520", item: { count: 1, id: "cobblemon:assault_vest" } }
+		{ id: "1DC296FF6649C4E3", item: { count: 1, id: "cobblemon:quick_claw" } }
+		{ id: "66CD23B1DA3F5495", item: { count: 1, id: "cobblemon:black_belt" } }
+		{ id: "3D0C9D229A60017A", item: { count: 1, id: "cobblemon:black_glasses" } }
+		{ id: "58F96B8D2838586E", item: { count: 1, id: "cobblemon:charcoal_stick" } }
+		{ id: "144E5BA2E602E2FC", item: { count: 1, id: "cobblemon:dragon_fang" } }
+		{ id: "12FAC520B2709939", item: { count: 1, id: "cobblemon:fairy_feather" } }
+		{ id: "65702403897AC715", item: { count: 1, id: "cobblemon:hard_stone" } }
+		{ id: "00FB9D873D3C27F5", item: { count: 1, id: "cobblemon:magnet" } }
+		{ id: "606734931EED6BCB", item: { count: 1, id: "cobblemon:metal_coat" } }
+		{ id: "129AA046BE25B6FE", item: { count: 1, id: "cobblemon:miracle_seed" } }
+		{ id: "02EB5696FFC1E9E0", item: { count: 1, id: "cobblemon:mystic_water" } }
+		{ id: "572CED348D782AB5", item: { count: 1, id: "cobblemon:never_melt_ice" } }
+		{ id: "2248E6BC931EC830", item: { count: 1, id: "cobblemon:poison_barb" } }
+		{ id: "0D0C1A158D34DA65", item: { count: 1, id: "cobblemon:sharp_beak" } }
+		{ id: "152D341140324678", item: { count: 1, id: "cobblemon:silk_scarf" } }
+		{ id: "4236AA2A61B1A23B", item: { count: 1, id: "cobblemon:silver_powder" } }
+		{ id: "4FB52BD774E24BD8", item: { count: 1, id: "cobblemon:soft_sand" } }
+		{ id: "59B6F288C017C273", item: { count: 1, id: "cobblemon:spell_tag" } }
+		{ id: "139A2F22249D823D", item: { count: 1, id: "cobblemon:twisted_spoon" } }
+		{ id: "5EC960867A61FCBD", item: { count: 1, id: "cobblemon:leftovers" } }
+	]
+}

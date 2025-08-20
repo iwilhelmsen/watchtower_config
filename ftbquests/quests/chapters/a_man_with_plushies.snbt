@@ -1,0 +1,13 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "a_man_with_plushies"
+	group: "7509B3714E0E7AEA"
+	icon: {
+		id: "a_man_with_plushies:golden_plush_box"
+	}
+	id: "5B7D892D91128471"
+	order_index: 0
+	quest_links: [ ]
+	quests: [ ]
+}

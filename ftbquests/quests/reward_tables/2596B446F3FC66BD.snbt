@@ -1,0 +1,14 @@
+{
+	id: "2596B446F3FC66BD"
+	loot_size: 1
+	order_index: 1
+	rewards: [
+		{ id: "660CD635502003D2", item: { count: 1, id: "cobblemon:pokedex_red" } }
+		{ id: "424ADA6CF78EA4DC", item: { count: 1, id: "cobblemon:pokedex_yellow" } }
+		{ id: "6EC827C967856E4F", item: { count: 1, id: "cobblemon:pokedex_green" } }
+		{ id: "12CA3321832609D7", item: { count: 1, id: "cobblemon:pokedex_blue" } }
+		{ id: "06BDDE4D308BA8E4", item: { count: 1, id: "cobblemon:pokedex_pink" } }
+		{ id: "29F3D61276773E98", item: { count: 1, id: "cobblemon:pokedex_black" } }
+		{ id: "04114260F39C6CB9", item: { count: 1, id: "cobblemon:pokedex_white" } }
+	]
+}

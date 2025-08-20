@@ -1,0 +1,13 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "a_splash_of_color"
+	group: "7509B3714E0E7AEA"
+	icon: {
+		id: "exposure:camera"
+	}
+	id: "2B00149D0482CC63"
+	order_index: 1
+	quest_links: [ ]
+	quests: [ ]
+}

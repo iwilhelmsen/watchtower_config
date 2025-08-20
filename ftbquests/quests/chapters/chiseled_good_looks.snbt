@@ -1,0 +1,13 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "chiseled_good_looks"
+	group: "7509B3714E0E7AEA"
+	icon: {
+		id: "chiselsandbits:chisel_netherite"
+	}
+	id: "4819F52B8A802B2B"
+	order_index: 2
+	quest_links: [ ]
+	quests: [ ]
+}

@@ -1,0 +1,57 @@
+{
+	icon: {
+		id: "mega_showdown:mega_meteorid_block"
+	}
+	id: "76C56E185001ED72"
+	loot_size: 1
+	order_index: 9
+	rewards: [
+		{ id: "20DDCFB9278256E3", item: { count: 1, id: "mega_showdown:abomasite" } }
+		{ id: "6B6FDD2D840D41D6", item: { count: 1, id: "mega_showdown:absolite" } }
+		{ id: "3B92FB558E07AC49", item: { count: 1, id: "mega_showdown:aerodactylite" } }
+		{ id: "5D7170FFA64BE3F6", item: { count: 1, id: "mega_showdown:aggronite" } }
+		{ id: "1F6ED0A3714E37CD", item: { count: 1, id: "mega_showdown:alakazite" } }
+		{ id: "2E459E39E65EE001", item: { count: 1, id: "mega_showdown:altarianite" } }
+		{ id: "46A0689D3B74D45C", item: { count: 1, id: "mega_showdown:ampharosite" } }
+		{ id: "029AF3680BF09675", item: { count: 1, id: "mega_showdown:audinite" } }
+		{ id: "0FECD6892DCD78BA", item: { count: 1, id: "mega_showdown:banettite" } }
+		{ id: "4A240A00547FF636", item: { count: 1, id: "mega_showdown:beedrillite" } }
+		{ id: "32A873C9C7B33457", item: { count: 1, id: "mega_showdown:blastoisinite" } }
+		{ id: "1F91090351CB964D", item: { count: 1, id: "mega_showdown:blazikenite" } }
+		{ id: "6B3D200C56FFA89D", item: { count: 1, id: "mega_showdown:cameruptite" } }
+		{ id: "055FD6620DABE4C5", item: { count: 1, id: "mega_showdown:charizardite_x" } }
+		{ id: "5CE4188ABE4E81DC", item: { count: 1, id: "mega_showdown:charizardite_y" } }
+		{ id: "4BDBEBE2DE84FD92", item: { count: 1, id: "mega_showdown:diancite" } }
+		{ id: "5F10EB145A7F34D0", item: { count: 1, id: "mega_showdown:galladite" } }
+		{ id: "783C653856575068", item: { count: 1, id: "mega_showdown:garchompite" } }
+		{ id: "61AC61B51533C3CE", item: { count: 1, id: "mega_showdown:gardevoirite" } }
+		{ id: "55A1EE3EE65C222B", item: { count: 1, id: "mega_showdown:gengarite" } }
+		{ id: "3E07719BA2CC8406", item: { count: 1, id: "mega_showdown:glalitite" } }
+		{ id: "709798EF96CA8330", item: { count: 1, id: "mega_showdown:gyaradosite" } }
+		{ id: "0046AEC28CB55C20", item: { count: 1, id: "mega_showdown:heracronite" } }
+		{ id: "3228A7AFBCF84D64", item: { count: 1, id: "mega_showdown:houndoominite" } }
+		{ id: "1BA68571795B18EC", item: { count: 1, id: "mega_showdown:kangaskhanite" } }
+		{ id: "495EDCC255AC08E0", item: { count: 1, id: "mega_showdown:latiasite" } }
+		{ id: "01DD9883E81E8BA8", item: { count: 1, id: "mega_showdown:latiosite" } }
+		{ id: "363D02CF8D67086D", item: { count: 1, id: "mega_showdown:lopunnite" } }
+		{ id: "052EB3CDA00A6F06", item: { count: 1, id: "mega_showdown:lucarionite" } }
+		{ id: "507D0C588FC6D073", item: { count: 1, id: "mega_showdown:manectite" } }
+		{ id: "17BD74530C65D171", item: { count: 1, id: "mega_showdown:mawilite" } }
+		{ id: "507E314B34A072BB", item: { count: 1, id: "mega_showdown:medichamite" } }
+		{ id: "7360BBA6B3AD3065", item: { count: 1, id: "mega_showdown:metagrossite" } }
+		{ id: "0FBB9B44734E57AC", item: { count: 1, id: "mega_showdown:mewtwonite_x" } }
+		{ id: "11FF7B8FA6773E8E", item: { count: 1, id: "mega_showdown:mewtwonite_y" } }
+		{ id: "1DFEAD8C113C6BCB", item: { count: 1, id: "mega_showdown:pidgeotite" } }
+		{ id: "76665393CE68C6D3", item: { count: 1, id: "mega_showdown:pinsirite" } }
+		{ id: "5C760CFA008878BD", item: { count: 1, id: "mega_showdown:sablenite" } }
+		{ id: "4581FFB580A34FFC", item: { count: 1, id: "mega_showdown:salamencite" } }
+		{ id: "0BF22F662DA3AEAD", item: { count: 1, id: "mega_showdown:sceptilite" } }
+		{ id: "69190024FE39222A", item: { count: 1, id: "mega_showdown:scizorite" } }
+		{ id: "228A39664CE476C9", item: { count: 1, id: "mega_showdown:sharpedonite" } }
+		{ id: "6E90D1DCBB500026", item: { count: 1, id: "mega_showdown:slowbronite" } }
+		{ id: "495EFAB46F29A1FE", item: { count: 1, id: "mega_showdown:steelixite" } }
+		{ id: "17DC0B56402846EF", item: { count: 1, id: "mega_showdown:swampertite" } }
+		{ id: "21F40C1FBB1C5817", item: { count: 1, id: "mega_showdown:tyranitarite" } }
+		{ id: "099CE5C5E2D5779D", item: { count: 1, id: "mega_showdown:venusaurite" } }
+	]
+}

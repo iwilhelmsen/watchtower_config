@@ -1,0 +1,40 @@
+{
+	icon: {
+		id: "cobblemon:gilded_chest"
+	}
+	id: "7C2DF4330A326D18"
+	loot_size: 1
+	order_index: 11
+	rewards: [
+		{
+			count: 64
+			id: "4B11AAE377887DA8"
+			item: {
+				count: 1
+				id: "cobblemon:relic_coin"
+			}
+			random_bonus: 64
+			weight: 85.0f
+		}
+		{
+			count: 16
+			id: "54CFE136EFC8D866"
+			item: {
+				count: 1
+				id: "cobblemon:relic_coin_pouch"
+			}
+			random_bonus: 16
+			weight: 10.0f
+		}
+		{
+			count: 8
+			id: "61F5D293433FD90F"
+			item: {
+				count: 1
+				id: "cobblemon:relic_coin_sack"
+			}
+			random_bonus: 8
+			weight: 5.0f
+		}
+	]
+}

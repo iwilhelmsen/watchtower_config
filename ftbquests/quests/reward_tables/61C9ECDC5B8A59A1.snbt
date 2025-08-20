@@ -1,0 +1,63 @@
+{
+	id: "61C9ECDC5B8A59A1"
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{
+			count: 5
+			id: "6C66436D38FB518F"
+			item: {
+				count: 1
+				id: "cobblemon:poke_ball"
+			}
+		}
+		{
+			count: 5
+			id: "0905C92EBCC37AE8"
+			item: {
+				count: 1
+				id: "cobblemon:citrine_ball"
+			}
+		}
+		{
+			count: 5
+			id: "1964EAA90D1C7BFE"
+			item: {
+				count: 1
+				id: "cobblemon:verdant_ball"
+			}
+		}
+		{
+			count: 5
+			id: "797EC93F40187326"
+			item: {
+				count: 1
+				id: "cobblemon:azure_ball"
+			}
+		}
+		{
+			count: 5
+			id: "14B615A073A86FD3"
+			item: {
+				count: 1
+				id: "cobblemon:roseate_ball"
+			}
+		}
+		{
+			count: 5
+			id: "57DA1D7F1649479A"
+			item: {
+				count: 1
+				id: "cobblemon:slate_ball"
+			}
+		}
+		{
+			count: 5
+			id: "67957734A231193D"
+			item: {
+				count: 1
+				id: "cobblemon:premier_ball"
+			}
+		}
+	]
+}

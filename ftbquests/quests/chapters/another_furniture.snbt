@@ -1,0 +1,13 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "another_furniture"
+	group: "7509B3714E0E7AEA"
+	icon: {
+		id: "dyenamicsandfriends:another_furniture_maroon_sofa"
+	}
+	id: "738A62B3F12EA466"
+	order_index: 4
+	quest_links: [ ]
+	quests: [ ]
+}

@@ -1,0 +1,13 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "oritech"
+	group: "09BB25BC2F1D2A9E"
+	icon: {
+		id: "oritech:assembler_block"
+	}
+	id: "5C6D6674C148DDFA"
+	order_index: 0
+	quest_links: [ ]
+	quests: [ ]
+}

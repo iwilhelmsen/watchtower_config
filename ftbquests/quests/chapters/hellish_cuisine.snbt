@@ -1,0 +1,13 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "hellish_cuisine"
+	group: "247115CBF2C0C47C"
+	icon: {
+		id: "mynethersdelight:roast_stuffed_hoglin"
+	}
+	id: "2FE74EB2FC04FB89"
+	order_index: 2
+	quest_links: [ ]
+	quests: [ ]
+}

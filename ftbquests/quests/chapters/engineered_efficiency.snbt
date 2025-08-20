@@ -1,0 +1,13 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "engineered_efficiency"
+	group: "6F67B029D62C27F5"
+	icon: {
+		id: "create_klinks_n_klangs:blank_ball"
+	}
+	id: "606B777B7947E0F2"
+	order_index: 1
+	quest_links: [ ]
+	quests: [ ]
+}

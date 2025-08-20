@@ -1,0 +1,13 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "occultism"
+	group: "6E9B3760209F98B5"
+	icon: {
+		id: "occultism:datura"
+	}
+	id: "36BF1376EA65879B"
+	order_index: 2
+	quest_links: [ ]
+	quests: [ ]
+}

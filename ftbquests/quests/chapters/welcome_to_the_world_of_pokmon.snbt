@@ -1,0 +1,13 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "welcome_to_the_world_of_pokmon"
+	group: "6F67B029D62C27F5"
+	icon: {
+		id: "cobblemon:poke_ball"
+	}
+	id: "268E2C8AB5571988"
+	order_index: 0
+	quest_links: [ ]
+	quests: [ ]
+}

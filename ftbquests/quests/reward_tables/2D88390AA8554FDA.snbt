@@ -1,0 +1,39 @@
+{
+	icon: {
+		id: "cobblemon:relic_coin"
+	}
+	id: "2D88390AA8554FDA"
+	loot_size: 1
+	order_index: 13
+	rewards: [
+		{
+			count: 8
+			id: "4A0587B194F49D9F"
+			item: {
+				count: 1
+				id: "cobblemon:relic_coin"
+			}
+			random_bonus: 8
+			weight: 85.0f
+		}
+		{
+			count: 2
+			id: "318CD72575039F5D"
+			item: {
+				count: 1
+				id: "cobblemon:relic_coin_pouch"
+			}
+			random_bonus: 2
+			weight: 10.0f
+		}
+		{
+			id: "7E7C9CD7C022E004"
+			item: {
+				count: 1
+				id: "cobblemon:relic_coin_sack"
+			}
+			random_bonus: 1
+			weight: 5.0f
+		}
+	]
+}

@@ -1,0 +1,327 @@
+{
+	icon: {
+		id: "cobblemon:great_ball"
+	}
+	id: "56FE1FCEF5A8B441"
+	loot_size: 1
+	order_index: 5
+	rewards: [
+		{
+			count: 4
+			id: "737F145B10A43E95"
+			item: {
+				count: 1
+				id: "cobblemon:great_ball"
+			}
+		}
+		{
+			count: 4
+			id: "39625BA37276C913"
+			item: {
+				count: 1
+				id: "cobblemon:ancient_great_ball"
+			}
+		}
+		{
+			count: 2
+			id: "47B446CD91D8E897"
+			item: {
+				count: 1
+				id: "cobblemon:safari_ball"
+			}
+		}
+		{
+			count: 2
+			id: "229996133B467E32"
+			item: {
+				count: 1
+				id: "cobblemon:level_ball"
+			}
+		}
+		{
+			count: 2
+			id: "1B0C684F0C2C3847"
+			item: {
+				count: 1
+				id: "cobblemon:love_ball"
+			}
+		}
+		{
+			count: 2
+			id: "1F84FDDEEEB3B406"
+			item: {
+				count: 1
+				id: "cobblemon:sport_ball"
+			}
+		}
+		{
+			count: 2
+			id: "2462DB6A6BAEA828"
+			item: {
+				count: 1
+				id: "cobblemon:park_ball"
+			}
+		}
+		{
+			count: 2
+			id: "32170EA0FE0E2716"
+			item: {
+				count: 1
+				id: "cobblemon:nest_ball"
+			}
+		}
+		{
+			count: 2
+			id: "24C24EC41A360AB5"
+			item: {
+				count: 1
+				id: "cobblemon:timer_ball"
+			}
+		}
+		{
+			count: 2
+			id: "34C6EDD3AC2A6EF7"
+			item: {
+				count: 1
+				id: "cobblemon:luxury_ball"
+			}
+		}
+		{
+			count: 2
+			id: "3EF0E351D433AC97"
+			item: {
+				count: 1
+				id: "cobblemon:ancient_wing_ball"
+			}
+		}
+		{
+			count: 2
+			id: "0FFC6B9801ADD4FA"
+			item: {
+				count: 1
+				id: "cobblemon:ancient_leaden_ball"
+			}
+		}
+		{
+			count: 2
+			id: "27DB6A4FC0956F19"
+			item: {
+				count: 1
+				id: "cobblemon:fast_ball"
+			}
+		}
+		{
+			count: 2
+			id: "1A11AE38C6E5C541"
+			item: {
+				count: 1
+				id: "cobblemon:repeat_ball"
+			}
+		}
+		{
+			count: 2
+			id: "6BE9EEC8F17471FA"
+			item: {
+				count: 1
+				id: "cobblemon:moon_ball"
+			}
+		}
+		{
+			count: 4
+			id: "29E99F629277A752"
+			item: {
+				count: 1
+				id: "cobblemon:full_heal"
+			}
+		}
+		{
+			count: 4
+			id: "572DF1FB74FF9843"
+			item: {
+				count: 1
+				id: "cobblemon:super_potion"
+			}
+		}
+		{
+			count: 2
+			id: "0678F9B10A3B7484"
+			item: {
+				count: 1
+				id: "cobblemon:elixir"
+			}
+		}
+		{
+			count: 2
+			id: "62A6EB78C7A66C95"
+			item: {
+				count: 1
+				id: "cobblemon:max_ether"
+			}
+		}
+		{
+			count: 4
+			id: "025863D28174FFFE"
+			item: {
+				count: 1
+				id: "cobblemon:dire_hit"
+			}
+		}
+		{
+			count: 4
+			id: "1B1D7E226B5B0DD0"
+			item: {
+				count: 1
+				id: "cobblemon:guard_spec"
+			}
+		}
+		{
+			count: 4
+			id: "3EC7DE4D9B7970CF"
+			item: {
+				count: 1
+				id: "cobblemon:x_attack"
+			}
+		}
+		{
+			count: 4
+			id: "2B735F0380275876"
+			item: {
+				count: 1
+				id: "cobblemon:x_special_attack"
+			}
+		}
+		{
+			count: 4
+			id: "0CCE812C1214F5FE"
+			item: {
+				count: 1
+				id: "cobblemon:x_accuracy"
+			}
+		}
+		{
+			count: 4
+			id: "57A4FA04910BC291"
+			item: {
+				count: 1
+				id: "cobblemon:x_defence"
+			}
+		}
+		{
+			count: 4
+			id: "218849DB67D6489A"
+			item: {
+				count: 1
+				id: "cobblemon:x_special_defence"
+			}
+		}
+		{
+			count: 2
+			id: "35E84B202F55D8FD"
+			item: {
+				count: 1
+				id: "cobblemon:revive"
+			}
+		}
+		{
+			count: 4
+			id: "33A51B54DC5B84C7"
+			item: {
+				count: 1
+				id: "cobblemon:revival_herb"
+			}
+		}
+		{ id: "50F72CF3F04D092D", item: { count: 1, id: "cobblemon:mental_herb" } }
+		{ id: "6ECDEF4295DF7CA7", item: { count: 1, id: "cobblemon:smooth_rock" } }
+		{ id: "11350DED82235B30", item: { count: 1, id: "cobblemon:power_herb" } }
+		{ id: "777F5ED182E7525B", item: { count: 1, id: "cobblemon:binding_band" } }
+		{ id: "595E9C53B93C1895", item: { count: 1, id: "cobblemon:big_root" } }
+		{ id: "0402EF15D9910ACC", item: { count: 1, id: "cobblemon:terrain_extender" } }
+		{ id: "5F459DCA766ED999", item: { count: 1, id: "cobblemon:everstone" } }
+		{ id: "52DA4AE0E397B9FA", item: { count: 1, id: "cobblemon:focus_band" } }
+		{ id: "16044F599FBC7A4A", item: { count: 1, id: "cobblemon:air_balloon" } }
+		{ id: "4FCDC14986F6E235", item: { count: 1, id: "cobblemon:bright_powder" } }
+		{ id: "57FAD53514F026D5", item: { count: 1, id: "cobblemon:sitrus_berry" } }
+		{ id: "41D5D6745A1BEA99", item: { count: 1, id: "cobblemon:icy_rock" } }
+		{ id: "40D5446B3CD0EBD5", item: { count: 1, id: "cobblemon:absorb_bulb" } }
+		{ id: "16E0149222F3B27C", item: { count: 1, id: "cobblemon:exp_share" } }
+		{ id: "066B7A80AAA609B5", item: { count: 1, id: "mega_showdown:lagging_tail" } }
+		{ id: "48A5101955F907BA", item: { count: 1, id: "cobblemon:red_card" } }
+		{ id: "10E5C32999D1BABD", item: { count: 1, id: "cobblemon:berry_juice" } }
+		{ id: "2E0F89B3B5CA624C", item: { count: 1, id: "cobblemon:destiny_knot" } }
+		{ id: "3C30040BF350BB31", item: { count: 1, id: "cobblemon:electric_seed" } }
+		{ id: "5F107032C5DB2B13", item: { count: 1, id: "cobblemon:grassy_seed" } }
+		{ id: "35B2973A830323E6", item: { count: 1, id: "cobblemon:misty_seed" } }
+		{ id: "447BE116CA86CA20", item: { count: 1, id: "cobblemon:psychic_seed" } }
+		{ id: "6D4EBCB92884A6FE", item: { count: 1, id: "cobblemon:pecha_berry" } }
+		{ id: "279E80D1104977DD", item: { count: 1, id: "cobblemon:shed_shell" } }
+		{ id: "45E76721D70E3BD9", item: { count: 1, id: "cobblemon:smoke_ball" } }
+		{ id: "7C21762A4BB543E3", item: { count: 1, id: "cobblemon:light_ball" } }
+		{ id: "3B4DEEC4845AC4C1", item: { count: 1, id: "mega_showdown:adrenalineorb" } }
+		{ id: "19C1AF330CD5CDCE", item: { count: 1, id: "cobblemon:eject_pack" } }
+		{ id: "04F4B3BC756BB851", item: { count: 1, id: "cobblemon:sticky_barb" } }
+		{ id: "72F9F6492FC1300A", item: { count: 1, id: "cobblemon:eject_button" } }
+		{ id: "02A03554540F179B", item: { count: 1, id: "cobblemon:chesto_berry" } }
+		{ id: "3C5CF046E4A793DB", item: { count: 1, id: "cobblemon:cell_battery" } }
+		{ id: "0D69B83D1331964F", item: { count: 1, id: "cobblemon:utility_umbrella" } }
+		{ id: "7D0C70938676752E", item: { count: 1, id: "cobblemon:protective_pads" } }
+		{ id: "4780600FD773F6BD", item: { count: 1, id: "cobblemon:leppa_berry" } }
+		{ id: "2C7893F9A6DC5646", item: { count: 1, id: "cobblemon:cheri_berry" } }
+		{ id: "1817E8B2D82C9B76", item: { count: 1, id: "mega_showdown:gripclaw" } }
+		{ id: "3E80B306D77D2094", item: { count: 1, id: "cobblemon:iron_ball" } }
+		{ id: "2C65A4FCA2AED780", item: { count: 1, id: "cobblemon:rawst_berry" } }
+		{ id: "4023D7507F8D5BE4", item: { count: 1, id: "cobblemon:room_service" } }
+		{ id: "1B678F4A98FDDB18", item: { count: 1, id: "cobblemon:oran_berry" } }
+		{ id: "5A8450E39E97245D", item: { count: 1, id: "cobblemon:power_anklet" } }
+		{ id: "617BE85CD50337B2", item: { count: 1, id: "cobblemon:power_band" } }
+		{ id: "0F4EB130AB5CE34A", item: { count: 1, id: "cobblemon:power_belt" } }
+		{ id: "72FF550C41C4A6C4", item: { count: 1, id: "cobblemon:power_bracer" } }
+		{ id: "7B968D20FB5866CC", item: { count: 1, id: "cobblemon:power_lens" } }
+		{ id: "324B184BA68074B6", item: { count: 1, id: "cobblemon:power_weight" } }
+		{ id: "705D7C33233DAD3A", item: { count: 1, id: "cobblemon:deep_sea_tooth" } }
+		{ id: "6F048A459CC87E5F", item: { count: 1, id: "cobblemon:cleanse_tag" } }
+		{ id: "2A17BBD5C2905C0B", item: { count: 1, id: "cobblemon:soothe_bell" } }
+		{ id: "41FC90E0D17347B2", item: { count: 1, id: "cobblemon:deep_sea_scale" } }
+		{
+			id: "70B0B7FE2338850A"
+			item: {
+				count: 1
+				id: "mega_showdown:burndrive"
+			}
+			weight: 0.5f
+		}
+		{
+			id: "0F187DBE99EF229E"
+			item: {
+				count: 1
+				id: "mega_showdown:dousedrive"
+			}
+			weight: 0.5f
+		}
+		{
+			id: "669F4B0D32DF4A99"
+			item: {
+				count: 1
+				id: "mega_showdown:chilldrive"
+			}
+			weight: 0.5f
+		}
+		{
+			id: "20109E28EDDFDA64"
+			item: {
+				count: 1
+				id: "mega_showdown:shockdrive"
+			}
+			weight: 0.5f
+		}
+		{ id: "41E5AB39BDA6959A", item: { count: 1, id: "cobblemon:fire_stone" } }
+		{ id: "68100994F8F5D8C6", item: { count: 1, id: "cobblemon:water_stone" } }
+		{ id: "6339F20250547640", item: { count: 1, id: "cobblemon:thunder_stone" } }
+		{ id: "4953606437C02D8C", item: { count: 1, id: "cobblemon:leaf_stone" } }
+		{ id: "5A3488D518BD2302", item: { count: 1, id: "cobblemon:moon_stone" } }
+		{ id: "3EDCDD0A8D014FDA", item: { count: 1, id: "cobblemon:sun_stone" } }
+		{ id: "20529CEFDCA95902", item: { count: 1, id: "cobblemon:shiny_stone" } }
+		{ id: "40407EEEA8219A09", item: { count: 1, id: "cobblemon:dusk_stone" } }
+		{ id: "7559AA603F53961A", item: { count: 1, id: "cobblemon:dawn_stone" } }
+		{ id: "10559C547BA8DF24", item: { count: 1, id: "cobblemon:ice_stone" } }
+	]
+}

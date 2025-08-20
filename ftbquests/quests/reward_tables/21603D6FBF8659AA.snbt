@@ -1,0 +1,285 @@
+{
+	icon: {
+		id: "cobblemon:poke_ball"
+	}
+	id: "21603D6FBF8659AA"
+	loot_size: 1
+	order_index: 8
+	rewards: [
+		{
+			count: 4
+			id: "1AEBF5294C546770"
+			item: {
+				count: 1
+				id: "cobblemon:poke_ball"
+			}
+		}
+		{
+			count: 4
+			id: "4D2C9E9085D7AAB4"
+			item: {
+				count: 1
+				id: "cobblemon:ancient_poke_ball"
+			}
+		}
+		{
+			count: 4
+			id: "006D3CDD138CC0DA"
+			item: {
+				count: 1
+				id: "cobblemon:citrine_ball"
+			}
+		}
+		{
+			count: 4
+			id: "62D7961C70C9CB28"
+			item: {
+				count: 1
+				id: "cobblemon:verdant_ball"
+			}
+		}
+		{
+			count: 4
+			id: "3CF9354A1A143A30"
+			item: {
+				count: 1
+				id: "cobblemon:azure_ball"
+			}
+		}
+		{
+			count: 4
+			id: "1B198BB7BAC26A04"
+			item: {
+				count: 1
+				id: "cobblemon:roseate_ball"
+			}
+		}
+		{
+			count: 4
+			id: "60EF6E4A7D925604"
+			item: {
+				count: 1
+				id: "cobblemon:slate_ball"
+			}
+		}
+		{
+			count: 4
+			id: "0C2C114943341565"
+			item: {
+				count: 1
+				id: "cobblemon:premier_ball"
+			}
+		}
+		{
+			count: 2
+			id: "2F0A42649B929347"
+			item: {
+				count: 1
+				id: "cobblemon:heal_ball"
+			}
+		}
+		{
+			count: 4
+			id: "3B3BBCEA7A4E17A2"
+			item: {
+				count: 1
+				id: "cobblemon:ancient_citrine_ball"
+			}
+		}
+		{
+			count: 4
+			id: "0C6955D5A242988E"
+			item: {
+				count: 1
+				id: "cobblemon:ancient_verdant_ball"
+			}
+		}
+		{
+			count: 4
+			id: "6FFA4D4E83AF28BB"
+			item: {
+				count: 1
+				id: "cobblemon:ancient_azure_ball"
+			}
+		}
+		{
+			count: 4
+			id: "0B4A1298E4B960C5"
+			item: {
+				count: 1
+				id: "cobblemon:ancient_roseate_ball"
+			}
+		}
+		{
+			count: 4
+			id: "47E574C7EE4BC757"
+			item: {
+				count: 1
+				id: "cobblemon:ancient_slate_ball"
+			}
+		}
+		{
+			count: 4
+			id: "67D44A915C8CE474"
+			item: {
+				count: 1
+				id: "cobblemon:ancient_ivory_ball"
+			}
+		}
+		{
+			count: 2
+			id: "3F7335D750A56982"
+			item: {
+				count: 1
+				id: "cobblemon:ancient_feather_ball"
+			}
+		}
+		{
+			count: 2
+			id: "5F4DBCE4A57450BD"
+			item: {
+				count: 1
+				id: "cobblemon:ancient_heavy_ball"
+			}
+		}
+		{
+			count: 4
+			id: "3C10D5DA6C1445B5"
+			item: {
+				count: 1
+				id: "cobblemon:awakening"
+			}
+		}
+		{
+			count: 4
+			id: "06E473DE2DB3AF30"
+			item: {
+				count: 1
+				id: "cobblemon:ice_heal"
+			}
+		}
+		{
+			count: 4
+			id: "4E893E7A54C7AEB3"
+			item: {
+				count: 1
+				id: "cobblemon:paralyze_heal"
+			}
+		}
+		{
+			count: 4
+			id: "20F8F61CCB9DDD7E"
+			item: {
+				count: 1
+				id: "cobblemon:antidote"
+			}
+		}
+		{
+			count: 4
+			id: "4CB0243924032B12"
+			item: {
+				count: 1
+				id: "cobblemon:burn_heal"
+			}
+		}
+		{
+			count: 4
+			id: "4853CDE4614BBC6B"
+			item: {
+				count: 1
+				id: "cobblemon:potion"
+			}
+		}
+		{
+			count: 8
+			id: "3E6813A53104BE06"
+			item: {
+				count: 1
+				id: "cobblemon:medicinal_leek"
+			}
+		}
+		{
+			count: 2
+			id: "657F0BBF2C84CF88"
+			item: {
+				count: 1
+				id: "cobblemon:ether"
+			}
+		}
+		{ id: "687F5047789F01E8", item: { count: 1, id: "mega_showdown:luminous_moss" } }
+		{ id: "797BFA274E7E100F", item: { count: 1, id: "minecraft:snowball" } }
+		{ id: "467F2E8DB306D0F6", item: { count: 1, id: "cobblemon:metal_powder" } }
+		{ id: "33020C64907D6D2A", item: { count: 1, id: "mega_showdown:souldew" } }
+		{ id: "0738EB48B25DEF71", item: { count: 1, id: "cobblemon:persim_berry" } }
+		{ id: "7403CF3379AE2661", item: { count: 1, id: "cobblemon:maranga_berry" } }
+		{ id: "4937519863696DE5", item: { count: 1, id: "cobblemon:kee_berry" } }
+		{ id: "24FD3E7A3E7C836F", item: { count: 1, id: "cobblemon:aspear_berry" } }
+		{ id: "5C0469815285F3D8", item: { count: 1, id: "cobblemon:quick_powder" } }
+		{ id: "729C47AD37182C3C", item: { count: 1, id: "cobblemon:normal_gem" } }
+		{ id: "3498E2168E2ACCA5", item: { count: 1, id: "cobblemon:fire_gem" } }
+		{ id: "236E0526BD210341", item: { count: 1, id: "cobblemon:water_gem" } }
+		{ id: "268963E216903C38", item: { count: 1, id: "cobblemon:grass_gem" } }
+		{ id: "41671BFBEAA8E5DC", item: { count: 1, id: "cobblemon:electric_gem" } }
+		{ id: "403B9741B999AEB7", item: { count: 1, id: "cobblemon:ice_gem" } }
+		{ id: "425863243385CF3A", item: { count: 1, id: "cobblemon:fighting_gem" } }
+		{ id: "71A59D5740C9C2A0", item: { count: 1, id: "cobblemon:poison_gem" } }
+		{ id: "36E71F27E8C4C750", item: { count: 1, id: "cobblemon:ground_gem" } }
+		{ id: "327E36C4D16156AF", item: { count: 1, id: "cobblemon:flying_gem" } }
+		{ id: "229FDEF6E3811E19", item: { count: 1, id: "cobblemon:psychic_gem" } }
+		{ id: "23C0931C362C5B0E", item: { count: 1, id: "cobblemon:bug_gem" } }
+		{ id: "7A9C909F0EE96505", item: { count: 1, id: "cobblemon:rock_gem" } }
+		{ id: "4D1485A996133C0C", item: { count: 1, id: "cobblemon:ghost_gem" } }
+		{ id: "4FC122387401DBBA", item: { count: 1, id: "cobblemon:dragon_gem" } }
+		{ id: "36D8637D26841CFC", item: { count: 1, id: "cobblemon:dark_gem" } }
+		{ id: "29AFC98712E387EA", item: { count: 1, id: "cobblemon:steel_gem" } }
+		{ id: "476070206CFBB4D8", item: { count: 1, id: "cobblemon:fairy_gem" } }
+		{
+			count: 4
+			id: "4859D3A36D6CACDD"
+			item: {
+				count: 1
+				id: "cobblemon:health_feather"
+			}
+		}
+		{
+			count: 4
+			id: "0B8352BA0BFE3E3B"
+			item: {
+				count: 1
+				id: "cobblemon:muscle_feather"
+			}
+		}
+		{
+			count: 4
+			id: "24B5961ECAC332C3"
+			item: {
+				count: 1
+				id: "cobblemon:resist_feather"
+			}
+		}
+		{
+			count: 4
+			id: "47249C92FA779086"
+			item: {
+				count: 1
+				id: "cobblemon:genius_feather"
+			}
+		}
+		{
+			count: 4
+			id: "0CACCEFEC4C84F5A"
+			item: {
+				count: 1
+				id: "cobblemon:clever_feather"
+			}
+		}
+		{
+			count: 4
+			id: "2CD5355CE9AEBCEF"
+			item: {
+				count: 1
+				id: "cobblemon:swift_feather"
+			}
+		}
+	]
+}

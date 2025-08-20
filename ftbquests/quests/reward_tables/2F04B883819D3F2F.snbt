@@ -1,0 +1,211 @@
+{
+	icon: {
+		id: "cobblemon:ultra_ball"
+	}
+	id: "2F04B883819D3F2F"
+	loot_size: 1
+	order_index: 7
+	rewards: [
+		{
+			count: 4
+			id: "6EBD4290380500AA"
+			item: {
+				count: 1
+				id: "cobblemon:ultra_ball"
+			}
+		}
+		{
+			count: 4
+			id: "47000BF7522D78F0"
+			item: {
+				count: 1
+				id: "cobblemon:ancient_ultra_ball"
+			}
+		}
+		{
+			count: 2
+			id: "0059993E13D7458C"
+			item: {
+				count: 1
+				id: "cobblemon:lure_ball"
+			}
+		}
+		{
+			count: 2
+			id: "164A5459BE375D42"
+			item: {
+				count: 1
+				id: "cobblemon:heavy_ball"
+			}
+		}
+		{
+			count: 2
+			id: "281636D61A14DE1A"
+			item: {
+				count: 1
+				id: "cobblemon:net_ball"
+			}
+		}
+		{
+			count: 2
+			id: "634B8A47AE4AF41F"
+			item: {
+				count: 1
+				id: "cobblemon:dive_ball"
+			}
+		}
+		{
+			count: 2
+			id: "276FFAEF9703E804"
+			item: {
+				count: 1
+				id: "cobblemon:dusk_ball"
+			}
+		}
+		{
+			count: 2
+			id: "3B8C7A09CF8B00B8"
+			item: {
+				count: 1
+				id: "cobblemon:quick_ball"
+			}
+		}
+		{
+			count: 2
+			id: "3FE54986706CF126"
+			item: {
+				count: 1
+				id: "cobblemon:dream_ball"
+			}
+		}
+		{
+			count: 2
+			id: "55E02D6B2820722D"
+			item: {
+				count: 1
+				id: "cobblemon:ancient_jet_ball"
+			}
+		}
+		{
+			count: 2
+			id: "5E2A84FA24428341"
+			item: {
+				count: 1
+				id: "cobblemon:ancient_gigaton_ball"
+			}
+		}
+		{
+			count: 2
+			id: "2F95DB46E4FF1669"
+			item: {
+				count: 1
+				id: "cobblemon:max_elixir"
+			}
+		}
+		{
+			count: 2
+			id: "4DE863556BC7BB0F"
+			item: {
+				count: 1
+				id: "cobblemon:max_revive"
+			}
+		}
+		{
+			count: 4
+			id: "4411C827A19CE153"
+			item: {
+				count: 1
+				id: "cobblemon:hyper_potion"
+			}
+		}
+		{
+			count: 2
+			id: "126AB37EAC269645"
+			item: {
+				count: 1
+				id: "cobblemon:max_potion"
+			}
+		}
+		{
+			count: 2
+			id: "14896841C4F3BCCD"
+			item: {
+				count: 1
+				id: "cobblemon:hp_up"
+			}
+		}
+		{
+			count: 2
+			id: "0AF680D80B6560C0"
+			item: {
+				count: 1
+				id: "cobblemon:calcium"
+			}
+		}
+		{
+			count: 2
+			id: "132FC8913AFFC9A5"
+			item: {
+				count: 1
+				id: "cobblemon:carbos"
+			}
+		}
+		{
+			count: 2
+			id: "0DE1874A806FCB1B"
+			item: {
+				count: 1
+				id: "cobblemon:iron"
+			}
+		}
+		{
+			count: 2
+			id: "6F5C91EC47726ED7"
+			item: {
+				count: 1
+				id: "cobblemon:protein"
+			}
+		}
+		{
+			count: 2
+			id: "18CE8B63F9D27EF5"
+			item: {
+				count: 1
+				id: "cobblemon:zinc"
+			}
+		}
+		{ id: "01412634B7FB3C92", item: { count: 1, id: "cobblemon:flame_orb" } }
+		{ id: "1CAD562D5895C74F", item: { count: 1, id: "cobblemon:wide_lens" } }
+		{ id: "69B9ED9C505413A6", item: { count: 1, id: "cobblemon:safety_goggles" } }
+		{ id: "35C1A81315C7C217", item: { count: 1, id: "cobblemon:choice_band" } }
+		{ id: "4F02F90993AFE5DB", item: { count: 1, id: "cobblemon:choice_scarf" } }
+		{ id: "392EAEA10F59626A", item: { count: 1, id: "cobblemon:choice_specs" } }
+		{ id: "3C39380E90FB5A6C", item: { count: 1, id: "cobblemon:light_clay" } }
+		{ id: "41011F529479F01C", item: { count: 1, id: "cobblemon:scope_lens" } }
+		{ id: "240687E2F98C225C", item: { count: 1, id: "cobblemon:life_orb" } }
+		{ id: "463CE40D0728AF0A", item: { count: 1, id: "cobblemon:wise_glasses" } }
+		{ id: "2980FF539552472A", item: { count: 1, id: "cobblemon:toxic_orb" } }
+		{ id: "1BA1BCE6519A5712", item: { count: 1, id: "cobblemon:kings_rock" } }
+		{ id: "30CAA62B175B9569", item: { count: 1, id: "cobblemon:zoom_lens" } }
+		{ id: "73103B093AFBB669", item: { count: 1, id: "cobblemon:weakness_policy" } }
+		{ id: "67EA940BB56E0A59", item: { count: 1, id: "cobblemon:muscle_band" } }
+		{ id: "6FBD7FB152C25B26", item: { count: 1, id: "cobblemon:metronome" } }
+		{ id: "4B64B6A751A19482", item: { count: 1, id: "cobblemon:expert_belt" } }
+		{ id: "1DA0943C3AF8C91A", item: { count: 1, id: "cobblemon:shell_bell" } }
+		{ id: "3B4078F1092AD2D3", item: { count: 1, id: "cobblemon:ring_target" } }
+		{ id: "48E4CF588A419B64", item: { count: 1, id: "cobblemon:white_herb" } }
+		{ id: "7E574505B96B3F2D", item: { count: 1, id: "cobblemon:damp_rock" } }
+		{ id: "57D912354E0841EF", item: { count: 1, id: "cobblemon:throat_spray" } }
+		{ id: "1B1EFFD9AB280AFA", item: { count: 1, id: "cobblemon:heat_rock" } }
+		{ id: "1049DF5A5F1C8A3D", item: { count: 1, id: "cobblemon:lucky_egg" } }
+		{ id: "0F73D320246450B5", item: { count: 1, id: "cobblemon:float_stone" } }
+		{ id: "3BB6AE6811E6ACB3", item: { count: 1, id: "cobblemon:blunder_policy" } }
+		{ id: "397B53AC76578973", item: { count: 1, id: "cobblemon:black_sludge" } }
+		{ id: "403ED9271CF05160", item: { count: 1, id: "cobblemon:lum_berry" } }
+		{ id: "542DDA3386F04567", item: { count: 1, id: "mega_showdown:blueorb" } }
+		{ id: "3C91F38C413704AE", item: { count: 1, id: "mega_showdown:redorb" } }
+		{ id: "4B21059AD212F6D3", item: { count: 1, id: "mega_showdown:adamant_orb" } }
+		{ id: "6B0DF9686D86AC2F", item: { count: 1, id: "mega_showdown:griseous_orb" } }
+		{ id: "375AD184F07FE8F0", item: { count: 1, id: "mega_showdown:lustrous_orb" } }
+	]
+}

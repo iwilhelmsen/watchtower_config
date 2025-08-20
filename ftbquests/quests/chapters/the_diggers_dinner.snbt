@@ -1,0 +1,13 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "the_diggers_dinner"
+	group: "247115CBF2C0C47C"
+	icon: {
+		id: "minersdelight:cave_carrot"
+	}
+	id: "7A0491187DE89D34"
+	order_index: 4
+	quest_links: [ ]
+	quests: [ ]
+}

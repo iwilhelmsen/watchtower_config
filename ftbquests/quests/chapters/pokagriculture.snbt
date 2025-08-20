@@ -1,0 +1,13 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "pokagriculture"
+	group: "6F67B029D62C27F5"
+	icon: {
+		id: "cobblemon:growth_mulch"
+	}
+	id: "5F0555E63D2244C5"
+	order_index: 2
+	quest_links: [ ]
+	quests: [ ]
+}

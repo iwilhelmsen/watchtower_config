@@ -1,0 +1,13 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "magitech"
+	group: "09BB25BC2F1D2A9E"
+	icon: {
+		id: "ars_creo:starbuncle_wheel"
+	}
+	id: "1FF392374426E4E1"
+	order_index: 3
+	quest_links: [ ]
+	quests: [ ]
+}

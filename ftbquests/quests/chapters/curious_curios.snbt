@@ -1,0 +1,47 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "curious_curios"
+	group: "6E9B3760209F98B5"
+	icon: {
+		components: {
+			"relics:data": {
+				abilities: {
+					abilities: {
+						runner: {
+							extender: {
+								cooldown: 0
+								cooldownCap: 0
+								ticking: 0b
+							}
+							lock: {
+								breaks: 5
+							}
+							points: 0
+							research: {
+								links: { }
+								researched: 0b
+							}
+							stats: {
+								speed: {
+									initialValue: 0.78701d
+								}
+							}
+						}
+					}
+				}
+				leveling: {
+					experience: 0
+					level: 0
+					luck: 0
+					points: 0
+				}
+			}
+		}
+		id: "artifacts:running_shoes"
+	}
+	id: "3E5869F44A23EF2A"
+	order_index: 0
+	quest_links: [ ]
+	quests: [ ]
+}
