@@ -1,0 +1,53 @@
+{
+	/* The interval in milliseconds to send updates via the web-socket.
+	   Default: 1000
+	*/
+	"updateInterval": 1000,
+	/* The path to the PEM formatted SSL Certificate.
+	   When both this element and 'sslPrivateKey' are specified. SSL will be enabled.
+	   For LetsEncrypt based usages, specify your 'fullchain.pem' file from certbot.
+	   If the file specified does not exist, it will be ignored. Set to null to disable.
+	   Default: /opt/ssl/fullchain.pem
+	*/
+	"sslCertificate": "/opt/ssl/fullchain.pem",
+	/* The path to the PEM formatted SSL Private Key.
+	   When both this element and 'sslCertificate' are specified. SSL will be enabled.
+	   For LetsEncrypt based usages, specify your 'privkey.pem' file from certbot.
+	   If the file specified does not exist, it will be ignored. Set to null to disable.
+	   Default: /opt/ssl/privkey.pem
+	*/
+	"sslPrivateKey": "/opt/ssl/privkey.pem",
+	// Configure Overall profiler settings.
+	"profilers": {
+		// Configure Entity profiler settings.
+		"entity": {
+			/* Indicate how many Entity types to return when grouping by Entity type.
+			   Default: 20
+			*/
+			"maxGroupByType": 20,
+			/* Indicate how many Chunks to return when grouping by Chunk.
+			   Default: 20
+			*/
+			"maxGroupByChunk": 20,
+		},
+		// Configure BlockEntity (TileEntity) profiler settings.
+		"blockEntity": {
+			/* Indicate how many Chunks to return when grouping by Chunk.
+			   Default: 20
+			*/
+			"maxGroupByChunk": 20,
+		},
+		// Configure Chunk profiler settings.
+		"chunk": {
+			/* Indicate how many Chunks worth of data to be returned for chunk specific profiling.
+			   Default: 20
+			*/
+			"maxChunks": 20,
+		},
+	},
+	// Configure WebHook callbacks for various events
+	"webHooks": {
+		// Webhook to be called when the server has finished starting. Receives the same data asthe 'server_started' websocket message. Will be called with PUT data.Set the value to null to stop all operation.Default: '$creeperhost' Automatically detects CreeperHost services and posts to the CreeperHost API for Panel integration.
+		"serverStarted": "$creeperhost",
+	},
+}
