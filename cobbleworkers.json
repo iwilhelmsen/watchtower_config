@@ -1,0 +1,231 @@
+{
+  "apricorn": {
+    "apricornHarvestersEnabled": true,
+    "apricornHarvesters": [
+      "scyther",
+      "scizor",
+      ""
+    ],
+    "typeHarvestsApricorns": "BUG",
+    "searchRadius": 8,
+    "searchHeight": 5
+  },
+  "irrigation": {
+    "cropIrrigatorsEnabled": true,
+    "cropIrrigators": [
+      "pikachu"
+    ],
+    "typeIrrigatesCrops": "WATER",
+    "searchRadius": 8,
+    "searchHeight": 2
+  },
+  "amethyst": {
+    "amethystHarvestersEnabled": true,
+    "amethystHarvesters": [
+      "pikachu"
+    ],
+    "typeHarvestsAmethyst": "ROCK",
+    "searchRadius": 8,
+    "searchHeight": 5
+  },
+  "tumblestone": {
+    "tumblestoneHarvestersEnabled": true,
+    "tumblestoneHarvesters": [
+      "excadrill"
+    ],
+    "shouldReplantTumblestone": true,
+    "typeHarvestsTumblestone": "STEEL",
+    "searchRadius": 8,
+    "searchHeight": 5
+  },
+  "cropHarvest": {
+    "cropHarvestersEnabled": true,
+    "cropHarvesters": [
+      "pikachu"
+    ],
+    "shouldReplantCrops": true,
+    "typeHarvestsCrops": "GRASS",
+    "searchRadius": 8,
+    "searchHeight": 3
+  },
+  "berries": {
+    "berryHarvestersEnabled": true,
+    "berryHarvesters": [
+      "pikachu"
+    ],
+    "typeHarvestsBerries": "GRASS",
+    "searchRadius": 8,
+    "searchHeight": 5
+  },
+  "honey": {
+    "honeyCollectorsEnabled": true,
+    "combeeLineCollectsHoney": true,
+    "honeyCollectors": [
+      "pikachu"
+    ],
+    "typeHarvestsHoney": "NONE",
+    "combeeLineGeneratesHoney": true,
+    "honeyGenerationCooldownSeconds": 120,
+    "searchRadius": 8,
+    "searchHeight": 5
+  },
+  "mints": {
+    "mintHarvestersEnabled": true,
+    "mintHarvesters": [
+      "pikachu"
+    ],
+    "typeHarvestsMints": "FAIRY",
+    "searchRadius": 8,
+    "searchHeight": 5
+  },
+  "lava": {
+    "lavaGeneratorsEnabled": true,
+    "lavaGenerators": [
+      "pikachu"
+    ],
+    "lavaGenerationCooldownSeconds": 90,
+    "typeGeneratesLava": "FIRE",
+    "searchRadius": 8,
+    "searchHeight": 5
+  },
+  "water": {
+    "waterGeneratorsEnabled": true,
+    "waterGenerators": [
+      "pikachu"
+    ],
+    "waterGenerationCooldownSeconds": 90,
+    "typeGeneratesWater": "WATER",
+    "searchRadius": 8,
+    "searchHeight": 5
+  },
+  "snow": {
+    "snowGeneratorsEnabled": true,
+    "snowGenerators": [
+      "pikachu"
+    ],
+    "snowGenerationCooldownSeconds": 90,
+    "typeGeneratesSnow": "ICE",
+    "searchRadius": 8,
+    "searchHeight": 5
+  },
+  "fishing": {
+    "fishingLootGeneratorsEnabled": true,
+    "fishingLootGenerators": [
+      "pikachu"
+    ],
+    "fishingLootGenerationCooldownSeconds": 60,
+    "fishingLootTreasureChance": 1,
+    "typeGeneratesFishingLoot": "WATER",
+    "searchRadius": 8,
+    "searchHeight": 5
+  },
+  "pickup": {
+    "pickUpLootersEnabled": true,
+    "pickUpLootingCooldownSeconds": 120,
+    "lootTables": [
+      "cobblemon:sets/any_ancient_held_item",
+      "cobblemon:sets/any_common_pokeball",
+      "cobblemon:sets/any_evo_stone",
+      "cobblemon:sets/any_exp_candy",
+      "cobblemon:sets/any_natural_heal_item",
+      "cobblemon:sets/any_type_gem",
+      "cobblemon:sets/any_apricorn_seed",
+      "cobblemon:villages/village_pokecenters"
+    ],
+    "searchRadius": 8,
+    "searchHeight": 5
+  },
+  "diving": {
+    "divingLootersEnabled": true,
+    "divingLootingCooldownSeconds": 210,
+    "lootTables": [
+      "cobblemon:shipwreck_coves/gilded_chests/lesser_treasure"
+    ],
+    "searchRadius": 8,
+    "searchHeight": 5
+  },
+  "groundItemGathering": {
+    "groundItemGatheringEnabled": true,
+    "groundItemGatherers": [
+      "pikachu"
+    ],
+    "typeGathersGroundItems": "PSYCHIC",
+    "searchRadius": 8,
+    "searchHeight": 5
+  },
+  "netherwartHarvest": {
+    "netherwartHarvestersEnabled": true,
+    "netherwartHarvesters": [
+      "pikachu"
+    ],
+    "shouldReplantNetherwart": true,
+    "typeHarvestsNetherwart": "GHOST",
+    "searchRadius": 8,
+    "searchHeight": 3
+  },
+  "healing": {
+    "healersEnabled": false,
+    "healers": [
+      "pikachu"
+    ],
+    "healingMoves": [
+      "wish",
+      "softboiled",
+      "moonlight",
+      "recover",
+      "roost",
+      "healbell",
+      "aromatherapy",
+      "synthesis",
+      "rest",
+      "lifedew"
+    ],
+    "chanseyLineHealsPlayers": true,
+    "regenDurationSeconds": 20,
+    "regenAmplifier": 0,
+    "searchRadius": 8,
+    "searchHeight": 3
+  },
+  "fuel": {
+    "fuelGeneratorsEnabled": true,
+    "fuelGenerators": [
+      "slugma",
+      "magcargo",
+      "magby",
+      "magmar",
+      "magmortar",
+      "rolycoly",
+      "carkoal",
+      "coalossal",
+      "torkoal",
+      "heatran"
+    ],
+    "fuelGenerationCooldownSeconds": 80,
+    "burnTimeSeconds": 80,
+    "typeGeneratesFuel": "FIRE",
+    "searchRadius": 8,
+    "searchHeight": 3
+  },
+  "brewingStandFuel": {
+    "fuelGeneratorsEnabled": true,
+    "fuelGenerators": [
+      "pikachu"
+    ],
+    "fuelGenerationCooldownSeconds": 80,
+    "addedFuel": 5,
+    "typeGeneratesFuel": "DRAGON",
+    "searchRadius": 8,
+    "searchHeight": 3
+  },
+  "extinguisher": {
+    "extinguishersEnabled": true,
+    "extinguishers": [
+      "squirtle",
+      "wartortle",
+      "blastoise"
+    ],
+    "typeExtinguishesFire": "WATER",
+    "searchRadius": 8,
+    "searchHeight": 3
+  }
+}
